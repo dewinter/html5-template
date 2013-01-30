@@ -1,0 +1,25 @@
+img {
+	border:0;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+.cleaner {
+	clear:both;
+	height:0;
+	line-height:0;
+}
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+}

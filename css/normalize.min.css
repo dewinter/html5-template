@@ -13,3 +13,4 @@ button[disabled],input[disabled]{cursor:default}
 input[type="checkbox"],input[type="radio"]{padding:0;}
 textarea{overflow:auto;vertical-align:top}
 table{border-collapse:collapse;border-spacing:0}
+form {display:inline;}
