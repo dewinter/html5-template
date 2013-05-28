@@ -1,3 +1,8 @@
+window.onerror = function(message, url, lineNumber) {
+	console.log('Line: ' + lineNumber +' m: ' + message + ' url: ' + url);
+	return true;
+};
+
 function logging(msg){
 	if (location.href.indexOf("#log") !== -1) {
 		var uhr = new Date();
