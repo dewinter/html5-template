@@ -1,0 +1,39 @@
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 1024px) 
+and (orientation : portrait) {
+
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 1024px) 
+and (orientation : landscape) {
+
+}
+
+
+/*
+ * iPhone 5 in landscape
+ */
+
+@media only screen 
+and (min-width : 320px) 
+and (max-width : 568px) 
+and (orientation : landscape) { 
+
+}
+
+
+/*
+ * iPhone 5 in portrait
+ */
+
+@media only screen 
+and (min-width : 320px) 
+and (max-width : 568px)
+and (orientation : portrait) {
+
+}
