@@ -10,7 +10,7 @@ legend{border:0;padding:0;white-space:normal;}
 button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;}
 button,input{line-height:normal}
 button[disabled],input[disabled]{cursor:default}
-input[type="checkbox"],input[type="radio"]{padding:0;}
+input[type="checkbox"],input[type="radio"]{padding:0; border:0 none;}
 textarea{overflow:auto;vertical-align:top}
 table{border-collapse:collapse;border-spacing:0}
 form {display:inline;}
